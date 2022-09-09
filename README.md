@@ -26,7 +26,7 @@
 <div> 
     
 - 🔭 I’m currently looking for a job with developer
-- 🌱 I’m currently learning Java, Spring Framework, Springboot, Angular
+- 🌱 I’m currently learning Java, Spring Framework, Springboot, Spring Web, Spring JPA, Angular
 - 📫 How to reach me: matheusinacio_santos@hotmail.com
  
   ![Snake animation](https://github.com/MatheusInacioSantos/matheusinaciosantos/blob/output/github-contribution-grid-snake.svg)
