@@ -29,10 +29,9 @@
     
 - 🔭 I’m currently looking for a job with developer
 - 🌱 I’m currently learning Ciêndia de da Dados e Python / Java
-- 📫 How to reach me: matheusinacio_santos@hotmail.com
+- 📫 How to reach me: matheusinacio_santos@hotmail.com  
  
   ![Snake animation](https://github.com/MatheusInacioSantos/matheusinaciosantos/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 <a href="https://www.linkedin.com/in/matheusinaciosantos01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
