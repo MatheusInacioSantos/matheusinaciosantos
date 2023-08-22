@@ -28,7 +28,7 @@
 <div> 
     
 - 🔭 I’m currently looking for a job with developer
-- 🌱 I’m currently learning Ciêndia de da Dados e Python
+- 🌱 I’m currently learning Ciêndia de da Dados e Python / Java
 - 📫 How to reach me: matheusinacio_santos@hotmail.com
  
   ![Snake animation](https://github.com/MatheusInacioSantos/matheusinaciosantos/blob/output/github-contribution-grid-snake.svg)
