@@ -31,7 +31,12 @@
 - 🌱 I’m currently learning data science / data engineering / Python with django / Java with spring boot
 - 📫 How to reach me: matheusinacio_santos@hotmail.com  
  
-  ![Snake animation](https://github.com/MatheusInacioSantos/matheusinaciosantos/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div align=center>
+
+<img src="https://raw.githubusercontent.com/matheusinaciosantos/matheusinaciosantos/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 <a href="https://www.linkedin.com/in/matheusinaciosantos01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
